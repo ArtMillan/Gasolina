@@ -1,0 +1,10 @@
+¬í sr java.util.ArrayListxÒ™Ça I sizexp   w   sr !com.combustible.eds.sistema.Carro0ò k1vÈ I puestoL fechat Ljava/lang/String;L grupoq ~ L 	idusuarioq ~ L placaq ~ L usuarioq ~ xp   t Fechat 1-2t 
+2094406729t Placa02t Alberto.A.Millansq ~    q ~ q ~ t 
+6163031032t A38CJ2Kt Ramon E. Ruiz M.sq ~    q ~ q ~ t 
+5339691889t MFM11Ct Yvelice Padrinosq ~    q ~ q ~ t 
+5352296850t 002BAHt Ramonsq ~    q ~ q ~ t 
+1911452351t PLA01CAt A.Millansq ~    q ~ q ~ q ~ t Placa07t 
+Tio Ramon1sq ~    q ~ q ~ q ~ t Placa08t Nathalisq ~    	q ~ t 9-0q ~ t Placa09t Tio joaquinsq ~    
+q ~ q ~ q ~ t Placa10t 	Usuario01sq ~    q ~ q ~ !q ~ t Placa11t 
+Madrina Pichosq ~    q ~ q ~ q ~ t Placa12q ~ &sq ~    
+q ~ q ~ q ~ t Placa13q ~ &sq ~    q ~ q ~ q ~ t Placa14q ~ &sq ~    q ~ q ~ q ~ t Placa15q ~ &sq ~    q ~ q ~ q ~ t Placa16q ~ &sq ~    q ~ q ~ q ~ t Placa17q ~ &sq ~    q ~ t 3-4q ~ t Placa01q ~ &sq ~    q ~ t 5-6q ~ q ~ 8q ~ &sq ~    q ~ t 7-8q ~ q ~ 8q ~ &sq ~    q ~ q ~ !q ~ q ~ 8q ~ &x
