@@ -7,4 +7,4 @@
 Tio Ramon1sq ~    q ~ q ~ q ~ t Placa08t Nathalisq ~    	q ~ t 9-0q ~ t Placa09t Tio joaquinsq ~    
 q ~ q ~ q ~ t Placa10t 	Usuario01sq ~    q ~ q ~ !q ~ t Placa11t 
 Madrina Pichosq ~    q ~ q ~ q ~ t Placa12q ~ &sq ~    
-q ~ q ~ q ~ t Placa13q ~ &sq ~    q ~ q ~ q ~ t Placa14q ~ &sq ~    q ~ q ~ q ~ t Placa15q ~ &sq ~    q ~ q ~ q ~ t Placa16q ~ &sq ~    q ~ q ~ q ~ t Placa17q ~ &sq ~    q ~ t 3-4q ~ t Placa01q ~ &sq ~    q ~ t 5-6q ~ q ~ 8q ~ &sq ~    q ~ t 7-8q ~ q ~ 8q ~ &sq ~    q ~ q ~ !q ~ q ~ 8q ~ &x
+q ~ q ~ q ~ t Placa13q ~ &sq ~    q ~ q ~ q ~ t Placa14q ~ &sq ~    q ~ q ~ q ~ t Placa15q ~ &sq ~    q ~ q ~ q ~ t Placa16q ~ &sq ~    q ~ q ~ q ~ t Placa17q ~ &sq ~    q ~ t 3-4q ~ t Placa01q ~ &sq ~    q ~ t 5-6q ~ q ~ 8q ~ &sq ~    q ~ t 7-8q ~ q ~ 8q ~ &sq ~    q ~ q ~ !q ~ q
